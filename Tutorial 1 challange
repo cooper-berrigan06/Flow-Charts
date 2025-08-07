@@ -1,0 +1,4 @@
+## Tutorial 1 challenge
+# Step 1: Define
+A smart parking barrier that automatically opens the barrier for registered staff and students.
+It Also needs to Count the numbers of cars in the parking lot to display the number of car parking spots left and send an error if someone tries to enter when there are no parking spots left
