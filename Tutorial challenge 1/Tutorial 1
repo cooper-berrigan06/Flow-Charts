@@ -1,0 +1,23 @@
+# Tutorial 1 challenge
+Step 1: Define
+A smart parking barrier that automatically opens the barrier for registered staff and students.
+It Also needs to Count the numbers of cars in the parking lot to display the number of car parking spots left and send an error if someone tries to enter when there are no parking spots left
+
+Step 2: 
+Feature: automatic entry, display for full capacity, be able to count cars, be able to know maximum capacity
+Inputs: 
+- Camera to check license plates and count cars coming into parking lot
+- Sensor to check if car has fully gone past barrier
+Outputs: 
+- open/close barrier
+- Alert system
+- number of free spaces
+Assumptions:
+- fixed maximum capacity
+- each vechicle has unique id
+- sensors are reliable
+expected outcomes:
+
+Parameters:
+Maximum capacity - Constant - 100 vechiles
+Current Count - Variable - 
