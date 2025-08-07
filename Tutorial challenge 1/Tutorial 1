@@ -21,3 +21,16 @@ expected outcomes:
 Parameters:
 Maximum capacity - Constant - 100 vechiles
 Current Count - Variable - 
+
+Step 4: 
+- read vehicle ID
+- Check if registered
+
+Step 5:
+Test and refine
+Tests:
+- Car that is registered enters car park when not full
+- car that is not registered tries to enter car park
+- Car that is registered when car park is full
+Suggested improvements:
+- Add overide for emergency vehicles
